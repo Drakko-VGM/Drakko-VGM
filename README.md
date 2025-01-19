@@ -1,16 +1,21 @@
-## Hi there 👋
+# **Olá, eu sou Vanderley Guilherme Manchini**👋
+<sub>Bem vindo ao meu perfil no GitHub!</sub> 
 
-<!--
-**Drakko-VGM/Drakko-VGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Sobre mim:**
+- 🏠Moradia: Botucatu/SP
+- 🎓Estudante de Analise e Desenvolvimento de Sistemas 
+<sub>(Superior - Tecnólogo) - FATEC - Botucatu/SP</sub>
+- 📈Formado em Administração
+<sub>(Técnico integrado ao ensino médio) - ETEC/Industrial Dr Domingos Minicucci Filho - Botucatu/SP</sub>
 
-Here are some ideas to get you started:
+## 💬 Para mais informações sobre mim, (ou para tirar qualquer dúvida), 
+## por favor entrar em contato pelos meios abaixo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Contato:**   
+📧 Email: [manchini252@gmail.com](mailto:manchini252@gmail.com)  
+
+#### Sigam-me nas redes sociais: 😉
+🌐 LinkedIn: [linkedin.com/in/vanderley-guilherme-manchini](www.linkedin.com/in/vanderley-guilherme-manchini-15b492287)  
+📱 Instagram: @guilherme_mcn_ | [link](https://www.instagram.com/seuusuario) 
+
+##😊 Muito obrigado pela atenção!!!
